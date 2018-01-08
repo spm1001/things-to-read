@@ -4,22 +4,22 @@ This is a collection of sources of interesting things to read in the penumbra of
 ## Email newsletters
 Bit of an old-fashioned format but some good stuff out there, including, unusually, the newsletters of the read-it-later services, which are excellent as they are informed by the reading habits of lots of people. The only way to get those is to sign up for an account for the service. 
 
-* [Pocket newsletter](#)[1](#)
-* [Instapaper newsletter](#)[2](#)
-* Enders Analysis (if you have a corporate subscription)
-* Forrester (ditto)
-* [Ben Evans](#)[3](#)
-* [Ben Thompson](#)[4](#) (well worth subscribing I think)
-* [Fintellect](#)[5](#)
-* [Adexchanger](#)[6](#)
-* [Mobile Fix](#)[7](#)
-* [Midia Research](#)[8](#)
-* [ExchangeWire](#)[9](#)
-* [McKinsey Highlights](#)[10](#)
-* [Parse.ly email](#)[11](#)
+* [Pocket newsletter](https://getpocket.com/signup)
+* [Instapaper newsletter](https://www.instapaper.com/user/register)
+* [Ben Evans](http://ben-evans.com/newsletter/)
+* [Ben Thompson](https://stratechery.com/membership/) (well worth subscribing I think)
+* [Fintellect](http://www.fintellect.com/msfi/)
+* [Adexchanger](https://adexchanger.com/newsletter/)
+* [Mobile Fix](http://www.addictivelondon.com/#sign-up-for-fix)
+* [Midia Research](https://www.midiaresearch.com/blog/)
+* [ExchangeWire](https://www.exchangewire.com/newsletter/)
+* [McKinsey Highlights](https://www.mckinsey.com/user-registration/manage-account/edit-subscriptions)
+* [Parse.ly email](https://blog.parsely.com)
 * [Exponential View](http://www.exponentialview.co/newsletter/) (thanks Tim!)
 * [HN Digest](https://hndigest.com)
 * [MondayNote](https://madmimi.com/signups/203173/join)
+* Enders Analysis (if you have a corporate subscription)
+* Forrester (ditto)
 
 ## Entities formerly known as websites
 In my case, I consume these through Apple News, as it’s a fairly competent algorithmic news feed reader that doesn’t try to show me pictures of my friends’ children. I’m sure they exist in your platform of choice (but if not, see next section).
@@ -99,7 +99,7 @@ Which also references this paper on applying DNNs to data structures we take for
 ## Podcasts
 Usual suspects really:
 
-Smug but good [a16z](https://itunes.apple.com/gb/podcast/a16z/id842818711?mt=2)
+Can be smug, but often good [a16z](https://itunes.apple.com/gb/podcast/a16z/id842818711?mt=2)
 
 I haven’t heard any yet, but Amol Rajan has a sound POV and has been given the reins to the BBC [Media Show](https://itunes.apple.com/gb/podcast/the-media-show/id292525828?mt=2)
 
@@ -110,16 +110,3 @@ Another new one from Parse.ly, which, given their data, will be worth listening 
 And the charming Roman Mars with [99% Invisible](https://itunes.apple.com/gb/podcast/99-invisible/id394775318?mt=2) is sometimes tangentially relevant. 
 
 And Jan Dawson with his market analysis crops up in podcast form too with [Beyond Devices](https://itunes.apple.com/gb/podcast/beyond-devices-podcast/id1002197313?mt=2)
-
-
-[1](#): https://getpocket.com/signup
-[2](#): https://www.instapaper.com/user/register
-[3](#): http://ben-evans.com/newsletter/
-[4](#): https://stratechery.com/membership/
-[5](#): http://www.fintellect.com/msfi/
-[6](#): https://adexchanger.com/newsletter/
-[7](#): http://www.addictivelondon.com/#sign-up-for-fix
-[8](#): https://www.midiaresearch.com/blog/
-[9](#): https://www.exchangewire.com/newsletter/
-[10](#): https://www.mckinsey.com/user-registration/manage-account/edit-subscriptions
-[11](#): https://blog.parsely.com
