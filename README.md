@@ -56,30 +56,30 @@ In my case, I consume these through Apple News, as it’s a fairly competent alg
 ## Things I can’t get on Apple News
 GAFA results are always worth reading for the transcripts of the calls in particular. You get a good sense of what matters to them as businesses, and how they are laying out their vision for (amongst others) employees who will all be following closely. 
 
-[https://abc.xyz/investor/](https://abc.xyz/investor/)
-[https://investor.fb.com/financials/](https://investor.fb.com/financials/)
-[http://www.nasdaq.com/symbol/aapl/call-transcripts](http://www.nasdaq.com/symbol/aapl/call-transcripts)
-[http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-reportsother](http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-reportsother)
-[http://www.nasdaq.com/symbol/amzn/call-transcripts](http://www.nasdaq.com/symbol/amzn/call-transcripts)
+- [Alphabet](https://abc.xyz/investor/)
+- [Facebook](https://investor.fb.com/financials/)
+- [Apple](http://www.nasdaq.com/symbol/aapl/call-transcripts)
+- [Amazon financials](http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-reportsother)
+- [Amazon transcript](http://www.nasdaq.com/symbol/amzn/call-transcripts)
 
 And these are all good for different reasons. The Netflix etc tech blogs are very revealing as are some corners of FB and Google. Trail of Bits are awesome. 
 
-[http://www.bbc.co.uk/blogs/internet/rss](http://www.bbc.co.uk/blogs/internet/rss)
-[http://techblog.netflix.com/feeds/posts/default](http://techblog.netflix.com/feeds/posts/default)
-[https://research.fb.com/feed/](https://research.fb.com/feed/)
-[https://blog.trailofbits.com/rss](https://blog.trailofbits.com/rss)
-[https://googleprojectzero.blogspot.co.uk/rss.xml](https://googleprojectzero.blogspot.co.uk/rss.xml)
-[https://machinelearning.apple.com](https://machinelearning.apple.com)
-[http://www.unofficialgoogledatascience.com/feeds/posts/default?alt=rss](http://www.unofficialgoogledatascience.com/feeds/posts/default?alt=rss)
-[http://feeds.feedburner.com/AdwordsAgencyBlog](http://feeds.feedburner.com/AdwordsAgencyBlog)
-[http://www.adopsinsider.com/rss](http://www.adopsinsider.com/rss)
-[Favourite authors on Arxiv](http://export.arxiv.org/api/query?search_query=au:%22jure+leskovec%22+OR+au:%22eytan+bakshy%22+OR+au:%22yann+lecun%22+OR+au:%22lada+adamic%22+OR+au:%22dean+eckles%22+OR+au:%22Duncan+J+Watts%22+OR+au:%22Teh_Y%22&sortBy=submittedDate&sortOrder=descending)
-[http://www.lumapartners.com/resource-center/presentations/rss](http://www.lumapartners.com/resource-center/presentations/rss)
-[https://blog.parsely.com/feed/](https://blog.parsely.com/feed/)
-[https://code.facebook.com/posts/rss](https://code.facebook.com/posts/rss)
-[http://www.practicallyefficient.com/feed.xml](http://www.practicallyefficient.com/feed.xml)
-[http://www.bokonads.com/rss](http://www.bokonads.com/rss)
-[http://feeds2.feedburner.com/ad-exchange-news](http://feeds2.feedburner.com/ad-exchange-news)
+- [http://www.bbc.co.uk/blogs/internet/rss](http://www.bbc.co.uk/blogs/internet/rss)
+- [http://techblog.netflix.com/feeds/posts/default](http://techblog.netflix.com/feeds/posts/default)
+- [https://research.fb.com/feed/](https://research.fb.com/feed/)
+- [https://blog.trailofbits.com/rss](https://blog.trailofbits.com/rss)
+- [https://googleprojectzero.blogspot.co.uk/rss.xml](https://googleprojectzero.blogspot.co.uk/rss.xml)
+- [https://machinelearning.apple.com](https://machinelearning.apple.com)
+- [http://www.unofficialgoogledatascience.com/feeds/posts/default?alt=rss](http://www.unofficialgoogledatascience.com/feeds/posts/default?alt=rss)
+- [http://feeds.feedburner.com/AdwordsAgencyBlog](http://feeds.feedburner.com/AdwordsAgencyBlog)
+- [http://www.adopsinsider.com/rss](http://www.adopsinsider.com/rss)
+- [Favourite authors on Arxiv](http://export.arxiv.org/api/query?search_query=au:%22jure+leskovec%22+OR+au:%22eytan+bakshy%22+OR+au:%22yann+lecun%22+OR+au:%22lada+adamic%22+OR+au:%22dean+eckles%22+OR+au:%22Duncan+J+Watts%22+OR+au:%22Teh_Y%22&sortBy=submittedDate&sortOrder=descending)
+- [http://www.lumapartners.com/resource-center/presentations/rss](http://www.lumapartners.com/resource-center/presentations/rss)
+- [https://blog.parsely.com/feed/](https://blog.parsely.com/feed/)
+- [https://code.facebook.com/posts/rss](https://code.facebook.com/posts/rss)
+- [http://www.practicallyefficient.com/feed.xml](http://www.practicallyefficient.com/feed.xml)
+- [http://www.bokonads.com/rss](http://www.bokonads.com/rss)
+- [http://feeds2.feedburner.com/ad-exchange-news](http://feeds2.feedburner.com/ad-exchange-news)
 
 ## Recent Papers and Conference Videos
 You’ll see that the URL above for Arxiv spits out an RSS feed of my favourite authors. Insert your own as appropriate, but overall it’s worth keeping an eye on Arxiv because that’s where most of this community likes to publish. 
