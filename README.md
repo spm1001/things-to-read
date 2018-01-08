@@ -85,30 +85,24 @@ And these are all good for different reasons. The Netflix etc tech blogs are ver
 You’ll see that the URL above for Arxiv spits out an RSS feed of my favourite authors. Insert your own as appropriate, but overall it’s worth keeping an eye on Arxiv because that’s where most of this community likes to publish. 
 
 ### NIPS 2017
-Yee Whye Teh: On Bayesian Deep Learning and Deep Bayesian Learning (NIPS 2017 Keynote)
+- Yee Whye Teh: On Bayesian Deep Learning and Deep Bayesian Learning (NIPS 2017 Keynote)
 https://www.youtube.com/watch?v=9saauSBgmcQ
 
-David Silver on Alpha Zero (though beware they removed Stockfish’s opening dict)
+- David Silver on Alpha Zero (though beware they removed Stockfish’s opening dict)
 https://www.youtube.com/watch?v=A3ekFcZ3KNw
 https://arxiv.org/pdf/1712.01815.pdf
 
-Google Brain on TPUs Into the Future
+- Google Brain on TPUs Into the Future
 [http://learningsys.org/nips17/assets/slides/dean-nips17.pdf](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf?utm_content=buffer39db3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-Which also references this paper on applying DNNs to data structures we take for granted like hash tables. 
+- Which also references this paper on applying DNNs to data structures we take for granted like hash tables. 
 [https://arxiv.org/pdf/1712.01208](https://arxiv.org/pdf/1712.01208)
 
 ## Podcasts
 Usual suspects really:
-
-Can be smug, but often good [a16z](https://itunes.apple.com/gb/podcast/a16z/id842818711?mt=2)
-
-I haven’t heard any yet, but Amol Rajan has a sound POV and has been given the reins to the BBC [Media Show](https://itunes.apple.com/gb/podcast/the-media-show/id292525828?mt=2)
-
-Another BBC one, this time from the World Service, called [Click](https://itunes.apple.com/gb/podcast/click/id73331490?mt=2), which sometimes has Krotoski amongst other psychology types. 
-
-Another new one from Parse.ly, which, given their data, will be worth listening to, called [The Center of Attention](https://itunes.apple.com/gb/podcast/the-center-of-attention/id1319543127?mt=2)
-
-And the charming Roman Mars with [99% Invisible](https://itunes.apple.com/gb/podcast/99-invisible/id394775318?mt=2) is sometimes tangentially relevant. 
-
-And Jan Dawson with his market analysis crops up in podcast form too with [Beyond Devices](https://itunes.apple.com/gb/podcast/beyond-devices-podcast/id1002197313?mt=2)
+- Can be smug, but often good [a16z](https://itunes.apple.com/gb/podcast/a16z/id842818711?mt=2)
+- I haven’t heard any yet, but Amol Rajan has a sound POV and has been given the reins to the BBC [Media Show](https://itunes.apple.com/gb/podcast/the-media-show/id292525828?mt=2)
+- Another BBC one, this time from the World Service, called [Click](https://itunes.apple.com/gb/podcast/click/id73331490?mt=2), which sometimes has Krotoski amongst other psychology types. 
+- Another new one from Parse.ly, which, given their data, will be worth listening to, called [The Center of Attention](https://itunes.apple.com/gb/podcast/the-center-of-attention/id1319543127?mt=2)
+- And the charming Roman Mars with [99% Invisible](https://itunes.apple.com/gb/podcast/99-invisible/id394775318?mt=2) is sometimes tangentially relevant. 
+- And Jan Dawson with his market analysis crops up in podcast form too with [Beyond Devices](https://itunes.apple.com/gb/podcast/beyond-devices-podcast/id1002197313?mt=2)
