@@ -1,8 +1,10 @@
 # Stuff to read
-This is a collection of sources of interesting things to read in the penumbra of media, marketing and tech. I’ve organised it by format of delivery that I use, which might seem an odd choice, especially since some of them, like Ben Thompson’s Stratechery, are multi-format, and exist as podcast, newsletter and website. 
+This is a collection of sources of interesting things to read in the penumbra of media, marketing and tech. I’ve organised it by format of delivery, which might seem an odd choice - especially since some of them, like Ben Thompson’s Stratechery, are multi-format, and exist as podcast, newsletter and website - but perhaps aids bulk signup. 
 
 ## Email newsletters
 Bit of an old-fashioned format but some good stuff out there, including, unusually, the newsletters of the read-it-later services, which are excellent as they are informed by the reading habits of lots of people. The only way to get those is to sign up for an account for the service. 
+
+In my case, I flick these via Zapier to Pocket, rather than read them as emails per se, but YMMV. 
 
 * [Pocket newsletter](https://getpocket.com/signup)
 * [Instapaper newsletter](https://www.instapaper.com/user/register)
