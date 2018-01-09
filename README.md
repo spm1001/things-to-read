@@ -20,6 +20,7 @@ In my case, I flick these via Zapier to Pocket, rather than read them as emails 
 * [Exponential View](http://www.exponentialview.co/newsletter/) (thanks Tim!)
 * [HN Digest](https://hndigest.com)
 * [MondayNote](https://madmimi.com/signups/203173/join)
+* [Scott Galloway - No Mercy, No Malice](https://www.l2inc.com/archive?blog-types=nmnm) (poisonous, mad, funny)
 * Enders Analysis (if you have a corporate subscription)
 * Forrester (ditto)
 
