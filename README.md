@@ -75,13 +75,14 @@ And these are all good for different reasons. The Netflix etc tech blogs are ver
 - [http://www.unofficialgoogledatascience.com/feeds/posts/default?alt=rss](http://www.unofficialgoogledatascience.com/feeds/posts/default?alt=rss)
 - [http://feeds.feedburner.com/AdwordsAgencyBlog](http://feeds.feedburner.com/AdwordsAgencyBlog)
 - [http://www.adopsinsider.com/rss](http://www.adopsinsider.com/rss)
-- [Favourite authors on Arxiv](http://export.arxiv.org/api/query?search_query=au:%22jure+leskovec%22+OR+au:%22eytan+bakshy%22+OR+au:%22yann+lecun%22+OR+au:%22lada+adamic%22+OR+au:%22dean+eckles%22+OR+au:%22Duncan+J+Watts%22+OR+au:%22Teh_Y%22&sortBy=submittedDate&sortOrder=descending)
+- [http://export.arxiv.org/api/query?search_query=au:%22jure+leskovec%22+OR+au:%22eytan+bakshy%22+OR+au:%22yann+lecun%22+OR+au:%22lada+adamic%22+OR+au:%22dean+eckles%22+OR+au:%22Duncan+J+Watts%22+OR+au:%22Teh_Y%22&sortBy=submittedDate&sortOrder=descending](http://export.arxiv.org/api/query?search_query=au:%22jure+leskovec%22+OR+au:%22eytan+bakshy%22+OR+au:%22yann+lecun%22+OR+au:%22lada+adamic%22+OR+au:%22dean+eckles%22+OR+au:%22Duncan+J+Watts%22+OR+au:%22Teh_Y%22&sortBy=submittedDate&sortOrder=descending)(My favourite Arxiv authors)
 - [http://www.lumapartners.com/resource-center/presentations/rss](http://www.lumapartners.com/resource-center/presentations/rss)
 - [https://blog.parsely.com/feed/](https://blog.parsely.com/feed/)
 - [https://code.facebook.com/posts/rss](https://code.facebook.com/posts/rss)
 - [http://www.practicallyefficient.com/feed.xml](http://www.practicallyefficient.com/feed.xml)
 - [http://www.bokonads.com/rss](http://www.bokonads.com/rss)
 - [http://feeds2.feedburner.com/ad-exchange-news](http://feeds2.feedburner.com/ad-exchange-news)
+- [https://blog.floydhub.com/rss.xml](https://blog.floydhub.com/rss.xml)
 
 ## Recent Papers and Conference Videos
 You’ll see that the URL above for Arxiv spits out an RSS feed of my favourite authors. Insert your own as appropriate, but overall it’s worth keeping an eye on Arxiv because that’s where most of this community likes to publish. 
